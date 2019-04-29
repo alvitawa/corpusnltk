@@ -1,4 +1,4 @@
-f = open('out.txt')
+f = open('corpus.txt')
 raw = f.read()
 tokens = word_tokenize(raw)
 x = raw.split()
@@ -33,6 +33,14 @@ for z,n in occ.items():
     if n == 1:
         getal += 1
         hapaxes.append(z)
+number = 0
 for w in sorted(occ, key=occ.get, reverse=True):
-    print(w, occ[w])
+    if occ[w] != 1:
+        number += 1
+gemiddelde = 0
+for word in x:
+    for c in word:
+        gemiddelde += 1
+print("gemiddelde aantal letters:", gemiddelde/len(x))
+print("zoveel veelvoorkomende woorden:", number)
 print("zoveel hapaxes:", getal)
