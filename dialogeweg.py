@@ -19,7 +19,7 @@ with open('in.txt', 'r') as in_file, open('out.txt', 'w') as out_file:
         stripped = sentence.strip()
         if stripped == '':
             continue
-        text += stripped + '. ' #no_commas + '. '
+        text += stripped + '.\n' #no_commas + '. '
         if len(text.split(' ')) > 1000:
             break
     out_file.write(text)
