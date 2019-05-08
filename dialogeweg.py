@@ -13,8 +13,13 @@ with open('in.txt', 'r') as in_file, open('out.txt', 'w') as out_file:
             continue
         if '.' in sentence:
             continue
-        no_commas = ''.join(sentence.split(','))
-        text += no_commas + '. '
+        if '(' in sentence or ')' in sentence:
+            continue
+        # no_commas = ''.join(sentence.split(','))
+        stripped = sentence.strip()
+        if stripped == '':
+            continue
+        text += stripped + '. ' #no_commas + '. '
         if len(text.split(' ')) > 1000:
             break
     out_file.write(text)
