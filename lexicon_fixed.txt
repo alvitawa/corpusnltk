@@ -292,10 +292,10 @@ PRP she
 PRP them
 PRP they
 PRP you
-PRP$ His
-PRP$ her
-PRP$ his
-PRP$ their
+PRPZ His
+PRPZ her
+PRPZ his
+PRPZ their
 RB Hardly
 RB Now
 RB Perhaps
