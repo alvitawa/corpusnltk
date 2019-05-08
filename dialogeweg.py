@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#TODO!!: out_fixed (.?)
 with open('in.txt', 'r') as in_file, open('out.txt', 'w') as out_file:
     content = in_file.read()
     print('Original: ~%s' % len(content.split(' ')))
@@ -19,7 +20,7 @@ with open('in.txt', 'r') as in_file, open('out.txt', 'w') as out_file:
         stripped = sentence.strip()
         if stripped == '':
             continue
-        text += stripped + '.\n' #no_commas + '. '
+        text += stripped.lower() + '.\n' #no_commas + '. '
         if len(text.split(' ')) > 1000:
             break
     out_file.write(text)
