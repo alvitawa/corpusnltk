@@ -18,7 +18,7 @@ def check_sentence(parser, sentence):
 
 # TODO!!: lexicon_fixed.txt
 with open('lexicon_fixed.txt', 'r') as lexicon_file, \
-     open('out.txt', 'r') as corpus_file, \
+     open('corpus_fixed.txt', 'r') as corpus_file, \
      open('CFG_v0.txt', 'r') as config_file, \
      open('generated.txt', 'w') as gen_out:
 
