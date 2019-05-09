@@ -7,7 +7,6 @@ S -> ADVP VP
 S -> S COMMA CC S VGPNT
 S -> NP VP
 S -> NP VGPNT
-S -> NP
 S -> VP
 S -> VP VGPNT
 S -> S CC NP VGPNT
@@ -31,6 +30,7 @@ NP -> NNP
 NP -> NN JJ
 NP -> VBN NN
 NP -> NP CC NP
+NP -> NP COMMA NP
 NP -> DT NNS
 NP -> NP PP
 NP -> DT
@@ -53,6 +53,7 @@ NP -> QP NN
 NP -> NN NN
 NP -> CD NNS
 NP -> NN
+NP -> NNS
 COMMA -> ','
 VGPNT -> '.' 
 VGPNT -> '?'
@@ -101,6 +102,7 @@ VP -> VBG PP PP
 VP -> VBN S
 VP -> VP CC S
 VP -> VB PRT
+VP -> VBD PRT
 VP -> VBD ADVP VP
 VP -> VBG PP COMMA S
 VP -> JJ NP
@@ -124,4 +126,5 @@ SBARQ -> WHADVP SQ VGPNT
 WHADVP -> WRB
 SQ -> MD NP VP
 PRT -> IN
+PRT -> RP
 QP -> RB CD
