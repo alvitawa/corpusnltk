@@ -13,13 +13,13 @@ def check_sentence(parser, sentence):
     results = parser.parse(sentence)
     for tree in results:
         tree_found = True
-        print(tree)
+        # print(tree)
     return tree_found
 
 # TODO!!: lexicon_fixed.txt
 with open('lexicon_fixed.txt', 'r') as lexicon_file, \
      open('out.txt', 'r') as corpus_file, \
-     open('CFG.txt', 'r') as config_file, \
+     open('CFG_v0.txt', 'r') as config_file, \
      open('generated.txt', 'w') as gen_out:
 
     lexicon_text = lexicon_file.read()
@@ -27,25 +27,19 @@ with open('lexicon_fixed.txt', 'r') as lexicon_file, \
     cfg_text = config_file.read()
 
     cfg_full = cfg_text + '\n' + lexicon_text
-    # cfg_full = """
-    #     S -> CC
-    #     CC -> 'and'
-    # """
-
-    # print(cfg_full)
 
     cfg = CFG.fromstring(cfg_full)
     parser = BottomUpLeftCornerChartParser(cfg)
     
     succ = 0
     fail = 0
-    for sentence in (corpus.split('\n'))[:7]:
+    for sentence in (corpus.split('\n')):
         # print('try' + sentence)
         if not check_sentence(parser, sentence):
             print('Nomatch \'%s\'' % sentence)
             fail += 1
         else:
-            print('succ \'%s\'' % sentence)
+            # print('succ \'%s\'' % sentence)
             succ += 1
 
     print('success: %s; failure: %s;' % (succ, fail))

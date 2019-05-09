@@ -3,6 +3,5 @@ S -> NP VP
 NP -> DT NN
 NN -> NN NN
 VP -> VBD VBN
-S -> IN S
 
 VP -> VBD NP
