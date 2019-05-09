@@ -49,6 +49,7 @@ NP -> PRP
 NP -> QP NN
 NP -> NN NN
 NP -> CD NNS
+NP -> NN
 COMMA -> ','
 VGPNT -> '.' 
 VGPNT -> '?'
