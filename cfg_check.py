@@ -3,7 +3,7 @@
 import nltk
 from nltk import CFG
 from nltk.grammar import FeatureGrammar
-from nltk.parse import ShiftReduceParser
+from nltk.parse import BottomUpLeftCornerChartParser
 
 # Function that works for multiple types of parsers (You are free to use something else if you want.)
 def check_sentence(parser, sentence):
@@ -35,17 +35,17 @@ with open('lexicon_fixed.txt', 'r') as lexicon_file, \
     # print(cfg_full)
 
     cfg = CFG.fromstring(cfg_full)
-    parser = nltk.parse.chart.BottomUpLeftCornerChartParser(cfg)
+    parser = BottomUpLeftCornerChartParser(cfg)
     
     succ = 0
     fail = 0
-    for sentence in corpus.split('\n')[:1]:
+    for sentence in (corpus.split('\n'))[:7]:
         # print('try' + sentence)
         if not check_sentence(parser, sentence):
-            print('Nomatch \'%s\'\n\n' % sentence)
+            print('Nomatch \'%s\'' % sentence)
             fail += 1
         else:
-            print('succ')
+            print('succ \'%s\'' % sentence)
             succ += 1
 
     print('success: %s; failure: %s;' % (succ, fail))
