@@ -4,10 +4,9 @@ from nltk import CFG
 from nltk.grammar import FeatureGrammar
 from nltk.parse import BottomUpLeftCornerChartParser
 
-with open('lexicon_fixed.txt', 'r') as lexicon_file, \
+with open('lexicon.txt', 'r') as lexicon_file, \
      open('corpus_fixed.txt', 'r') as corpus_file, \
-     open('CFG_v0.txt', 'r') as config_file, \
-     open('generated.txt', 'w') as gen_out:
+     open('CFG.txt', 'r') as config_file:
 
     lexicon_text = lexicon_file.read()
     corpus = corpus_file.read()

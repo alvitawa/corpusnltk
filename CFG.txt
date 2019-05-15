@@ -1,5 +1,5 @@
-S -> S VGPNT
-S -> NP VP
+S -> SUB_S VGPNT
+SUB_S -> NP VP
 NP -> DT NN
 NN -> NN NN
 VP -> VBD VBN

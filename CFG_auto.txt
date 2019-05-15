@@ -1,0 +1,196 @@
+s -> e
+ADVP -> R up
+PP -> I for
+VP -> V heard
+NP -> P they
+. -> .
+PP -> I in
+NNS -> s
+R -> P
+VP -> V happened
+NP -> P he
+ROOT -> S NP-TMP NP VP .
+VP -> V gave
+C -> D
+NN -> h
+VP -> V sat
+DT -> t
+. -> )
+ADVP -> R then
+m -> a
+S -> N NN
+S -> B
+VP -> V noticed
+PP -> I on
+NP -> D a
+VBD -> d
+g -> e
+ROOT -> S ADVP , NP VP .
+ROOT -> S WHADVP SQ .
+NN -> b
+N -> P
+i -> t
+VP -> V limped
+PP -> I from
+ROOT -> S PP NP VP .
+u -> p
+VBD -> s
+NP -> N wood
+PRT -> R up
+S -> V VBZ NP
+NP -> N ron
+S -> A RB
+NP -> C two
+NP -> C five
+N -> N
+VP -> V took
+ROOT -> S ADVP NP VP .
+VP -> V dawned
+ROOT -> S NP VP .
+ROOT -> N NP , NP .
+. -> ?
+VP -> M would
+VP -> V turned
+s -> h
+d -> r
+ROOT -> S S , CC S .
+S -> N PRP
+R -> B
+VP -> V gasped
+LS -> i
+U -> C
+VP -> V did
+NP -> N DT NNS
+A -> D
+VBD -> h
+VP -> V gulped
+NP -> J good
+SQ -> M should
+VP -> V skipped
+ADVP -> R angrily
+ROOT -> S S , NP VP .
+IN -> u
+ROOT -> N NN .
+S -> N DT NNS
+VP -> V VBD ADVP PP
+RB -> w
+n -> o
+VBD -> m
+VP -> V told
+ROOT -> S LS VP .
+n -> i
+NP -> J lower
+S -> V VBG PRT
+PP -> I as
+ROOT -> S CC PP , NP VP .
+VP -> V gripped
+ROOT -> S PP , NP VP .
+VP -> V stood
+NP -> N dean
+ROOT -> S S , FRAG .
+NP -> N harry
+PP -> T to
+WP -> w
+t -> h
+VP -> V VBD NP
+NP -> N marcus
+VBZ -> n
+VP -> V bit
+a -> l
+VP -> V VBD NP ADVP
+CD -> o
+m -> o
+NN -> w
+NP -> P his
+NP -> N DT
+b -> u
+S -> U NP CC S
+VP -> V knocked
+ROOT -> S S VP .
+PRP -> i
+VP -> V cleared
+NP -> N CD
+VP -> V were
+PRP$ -> h
+NP -> P it
+ADVP -> R now
+SBAR -> W WP
+FRAG -> I RB
+VP -> V dived
+w -> a
+W -> R
+h -> a
+DT -> a
+VP -> V rose
+I -> N
+V -> B
+VP -> V felt
+J -> J
+a -> n
+NP -> D the
+VP -> V VBD NP VP
+b -> r
+SBAR -> I if
+NN -> n
+S -> N NP , SBAR ,
+SBAR -> I as
+f -> i
+VP -> V thought
+VP -> V decided
+VP -> V wanted
+T -> O
+VB -> f
+w -> e
+CC -> a
+NP -> N hagrid
+NP -> N madam
+NP -> N NN
+NP -> N flint
+RB -> h
+S -> N PRP$ NN
+VP -> M could
+NP -> N slytherin
+ADVP -> I out
+VP -> V fixed
+VP -> V was
+VP -> V showed
+w -> h
+W -> H
+NP -> N snape
+WHADVP -> W why
+VP -> V became
+D -> T
+VBG -> g
+NNS -> m
+ROOT -> S CC S VP .
+ROOT -> N NP PP .
+s -> p
+X -> N harry
+VP -> V sprinted
+NP -> N lee
+NP -> J many
+VP -> V saw
+V -> P
+CC -> b
+o -> n
+h -> i
+VP -> V stared
+NP -> N hermione
+E -> X
+PRP -> s
+VP -> V had
+ADVP -> A NN IN
+ROOT -> S SBAR , NP VP .
+M -> D
+, -> ,
+VP -> V joined
+h -> e
+NP -> R perhaps
+NP -> P she
+P -> R
+NP-TMP -> D every
+ADVP -> I down
+VP -> V know
+NP -> E there
+S -> V VB
+NP -> C fifteen
