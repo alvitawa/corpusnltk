@@ -87,4 +87,4 @@
 (ROOT (S (ADVP (RB up) (PP (IN in) (NP (DT the) (NN air)))) (, ,) (NP (NN harry)) (VP (VBD was) (ADVP (RB suddenly)) (ADJP (JJ able) (S (VP (TO to) (VP (VB clamber) (ADVP (RB back)) (PP (IN on) (PP (TO to) (NP (PRP$ his) (NN broom))))))))) (. .)))
 (ROOT (S (NP (NN harry)) (VP (VBD heard) (NP (NP (NN none)) (PP (IN of) (NP (DT this)))) (, ,) (ADVP (RB though))) (. .)))
 (ROOT (S (NP (NN harry)) (VP (VBD decided) (PP (IN on) (NP (DT the) (NN truth)))) (. .)))
-(ROOT (S (NP (PRP it)) (VP (VBD bit) (NP (PRP him))) (. .))))
+(ROOT (S (NP (PRP it)) (VP (VBD bit) (NP (PRP him))) (. .)))
