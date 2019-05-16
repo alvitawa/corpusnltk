@@ -1,714 +1,714 @@
-RBR -> more
-NN -> beaverskin
-RP -> over
-JJ -> snape
-NN -> snape
-EX -> there
-VB -> see
-NNS -> seekers
-NN -> fire
-NP -> JJ NN NP
-VBG -> speaking
-VP -> VBD ADJP PP
-VBG -> noticing
-VB -> hang
-VP -> VB NP PP
-VP -> VB S
-NN -> heart
-JJ -> long
-SBAR -> WHADVP S
-VB -> know
-VP -> VB NP PRT
-VP -> VBD NP ADVP
-VBD -> sprinted
-S -> SBAR , NP VP .
-MD -> would
-VBG -> getting
-TO -> to
-NP -> JJ NNS
-VP -> VBD PRT , ADVP , PP
-VP -> VBD NP , ADVP
-JJ -> violent
-NN -> cup
-NP -> DT ADJP NN
-NN -> hermione
-VP -> VBD ADVP PP
-VBG -> defrosting
-VBG -> muttering
-NN -> weather
-NNS -> windows
-NN -> sahara
-VP -> VBD
-VP -> VBD ADVP , ADVP
-NP -> PDT DT NN
-VBN -> saved
-VP -> VBN S
-VP -> VBD NP SBAR
-VBD -> gulped
-JJ -> gray
-NP -> RB CD NNS
-RB -> still
-NN -> job
-NN -> season
-NNS -> hands
-RB -> too
-NN -> field
-IN -> about
-VBD -> became
-JJS -> fastest
-NN -> middle
-VP -> VBD NP
-NN -> window
-VBD -> wanted
-ROOT -> S
-NN -> everyone
-NN -> game
-DT -> a
-JJ -> delicious
-VP -> ADVP JJ
-X -> NP
-NN -> world
-RB -> again
-NN -> shot
-JJ -> lucky
-SBAR -> RB S
-RB -> rarely
-VBG -> gliding
-VP -> VB NP SBAR
-NN -> crowd
-NN -> lee
-NP -> DT ADJP
-NP -> CD
-SQ -> MD NP VP
-NN -> corner
-ADVP -> RB RB
-WHNP -> WDT
-VP -> VBD PRT S
-VP -> VBG NP ADVP , ADVP PP
-NNS -> weeks
-IN -> above
-JJ -> nonstop
-NP -> DT
-NN -> anyone
-NN -> paint
-JJ -> loud
-VP -> VBZ NP
-VB -> decide
-NNS -> scabbers
-VP -> VP , VP CC VP
-NP -> PRP$
-NP -> NN
-NP -> RB NN
-NN -> seeker
-VB -> be
-JJ -> second
-NN -> match
-JJ -> interesting
-JJ -> harry
-ADJP -> RB JJ CC JJ
-NP -> DT NN NN
-NP -> NP , SBAR ,
-VBG -> holding
-IN -> into
-NP -> PRP$ NN
-NP -> EX
-VBG -> dangling
-CD -> one
-NN -> course
-RB -> only
-VP -> VBN PRT PP
-NP -> JJ NN
-WP -> what
-LS -> i
-NNS -> teams
-NN -> hagrid
-VBG -> making
-ADJP -> RB JJR
-NP -> NP PP
-RB -> forward
-NNS -> higgs
-VBD -> limped
-NP -> VBN NN
-NN -> eye
-PDT -> all
-VP -> ADVP VBG S
-VP -> VBD NP PP , S
-RB -> off
-NN -> snitch
-CD -> five
-NN -> flint
-RB -> just
-CC -> but
-ADVP -> IN CC IN
-NN -> way
-RB -> together
-RB -> also
-VBD -> took
-JJ -> restless
-VP -> VBG IN PP
-VP -> ADVP VBG NP
-CD -> thirty
-S -> , PP , NP VP
-NN -> gold
-VP -> VBD PP , ADVP S
-VBD -> showed
-RB -> angrily
-NNS -> riders
-NN -> nothing
-ADVP -> ADVP PP
-JJ -> different
-RP -> off
-VBN -> begun
-NN -> blood
-VBN -> been
-VP -> VBD RB ADVP VP
-JJ -> next
-RB -> almost
-WRB -> when
-VBG -> carrying
-VP -> VBD ADJP SBAR
-NNS -> seconds
-VP -> VBD VP , ADVP
-NN -> sausages
-VBD -> said
-VBN -> bundled
-NN -> desert
-VP -> VBG NP
-S -> CC S VP .
-VP -> VBN
-RB -> perhaps
-VBN -> seen
-ADJP -> JJ
-JJ -> unseated
-S -> NP VP
-VP -> VBD SBAR
-NN -> ham
-RB -> inside
-VP -> VBD S NP-TMP
-RP -> up
-JJ -> able
-NNS -> knees
-VP -> VBD ADVP NP
-VP -> VBG ADVP PP
-IN -> as
-DT -> every
-VBN -> lent
-VP -> VBG PP
-VBG -> zigzagging
-FRAG -> INTJ , NP
-S -> S , NP VP .
-NP -> NN NN NN NNS
-NN -> ron
-NN -> harry
-VBD -> stood
-JJ -> tricky
-NNS -> thousands
-NN -> silver
-UCP -> NP CC S
-NP -> DT NN NN NN
-VBG -> vibrating
-NN -> play
-JJS -> smallest
-NN -> silence
-NNP -> saturday
-JJ -> afraid
-NNS -> backs
-NN -> goal
-S -> LS VP .
-NNS -> times
-VP -> VB PRT
-CD -> two
-VP -> VBG
-VP -> VP CC VP
-IN -> though
-S -> VP
-ADVP -> NP RBR
-NNS -> ways
-VBN -> performed
-VBD -> dived
-NP -> DT VBG NN
-JJ -> cheerful
-NNS -> points
-NN -> yard
-NN -> answer
-NP -> DT CD NNS
-JJ -> golden
-VBG -> twitching
-CD -> fifteen
-JJ -> high
-ADVP -> RB PP
-NN -> year
-RB -> away
-RP -> out
-VBG -> handing
-NN -> hand
-RB -> now
-JJ -> foul
-VP -> VBN NP
-NNS -> seats
-NP -> JJR
-NN -> lion
-NN -> west
-ADJP -> JJ S
-S -> ADVP , NP VP .
-VBN -> started
-NN -> coulda
-NP -> JJ NN NNS
-JJ -> large
-NN -> streak
-RB -> much
-NNS -> colors
-NN -> hall
-NP -> NN CC NN
-VBZ -> nimbus
-NN -> evening
-NP -> NN .
-NNP -> november
-NN -> frost
-JJ -> great
-S -> NP ADVP VP
-VBD -> felt
-SBAR -> IN IN S
-VBN -> ruined
-NN -> charm
-NP -> DT JJ NN
-NN -> overcoat
-RB -> back
-NNS -> legs
-S -> ADJP
-S -> NP VP .
-VBN -> relaxed
-NP -> JJ
-IN -> although
-VP -> VBG PRT PP
-VBD -> did
-NP -> NP NP
-IN -> without
-NP -> DT JJ JJ NN
-JJR -> longer
-PP -> CC NP
-WDT -> which
-NN -> ground
-IN -> of
-RB -> usually
-VBD -> made
-VB -> happen
-NN -> dean
-JJ -> frightening
-VBN -> disappeared
-NN -> neville
-NN -> secret
-NP -> NN , NN , CC NN
-VP -> VBG SBAR
-PRP$ -> her
-NP -> NP , NP , CC NP
-IN -> so
-NNS -> months
-VBD -> joined
-PRP -> him
-ADVP -> IN PP
-RB -> suddenly
-VBD -> scored
-VBD -> spoke
-VBD -> seemed
-JJ -> sudden
-VB -> vanish
-JJ -> bright
-IN -> from
-JJ -> common
-VP -> VB SBAR
-NP -> CD NNS
-RB -> not
-VB -> catch
-ADJP -> JJ JJR
-NN -> wood
-VBD -> gripped
-WHADVP -> WRB
-NP -> RB RB
-. -> .
-JJR -> higher
-VBG -> squinting
-S -> CC PP , NP VP .
-NN -> truth
-VP -> ADVP VBD NP PP
-VP -> VP , CC VP NP
-PP -> IN SBAR
-VP -> VBN ADJP PP
-VP -> VB ADVP
-RB -> really
-IN -> out
-NNS -> broomsticks
-VBG -> drawing
-NN -> quidditch
-VP -> VBD PRT
-NN -> troll
-RB -> downward
-DT -> all
-VBD -> saw
-NP -> RB CD NN
-VBG -> waiting
-S -> ADVP VP
-NN -> confusion
-VBG -> looking
-SBAR -> WHNP S
-IN -> for
-RB -> alone
-VBG -> staring
-DT -> this
-NN -> icy
-VBN -> chilled
-VBG -> fluttering
-NN -> split
-IN -> over
-JJ -> impossible
-VBG -> hoping
-VBN -> hermione
-NN -> surprise
-IN -> down
-NN -> try
-ADVP -> RB JJ
-INTJ -> RB
-VBD -> went
-NP -> NNP
-X -> NN VBD IN EX VBD CD CD NNS IN VBG DT NN JJ CC IN DT IN PRP VBD VBN IN DT NN NN NN IN CD : DT NNS VBD RB DT JJS CC JJS NNS , CC IN JJS JJ NN NNS VBD TO VB TO PRP : IN IN NNS RB VBD VBG NN , NNS VBD VBN VBN TO VB CC VB RP NNS RB IN DT NN NN .
-VBD -> were
-RB -> hardly
-RB -> once
-: -> :
-VP -> VBG NP PP
-IN -> worth
-VP -> VB ADJP
-NN -> upstairs
-VBD -> learned
-PP -> IN
-ADVP -> IN NP PP
-S -> NP-TMP NP VP .
-NN -> breath
-NNS -> binoculars
-NN -> moleskin
-NN -> read
-NP -> DT NN
-RB -> slowly
-VBD -> sat
-IN -> with
-VP -> VBN SBAR
-VBD -> ordered
-ADVP -> DT RB CC RB
-VBD -> stared
-VB -> roll
-NN -> banner
-VBN -> kept
-WP -> who
-NN -> friend
-IN -> off
-VBD -> thought
-CD -> 1473
-NP -> NP PP .
-VP -> VBG S
-JJ -> whole
-NN -> swishing
+COMMA -> ','
+PUNT -> '.'
+PUNT -> '?'
+DUBBELEPUNT -> ':'
+DUBBELEPUNT -> ';'
 ADJP -> ADJP PP
-VBD -> had
-JJ -> mangled
-NNS -> gloves
-JJ -> warm
-NN -> hooch
-VBD -> won
-DT -> the
-VP -> VBN PP ADVP
-S -> S , FRAG .
-, -> ,
-NP-TMP -> DT JJ NN
-NNS -> eyes
-MD -> might
-VB -> hold
-VP -> VBD ADJP
-VBN -> raised
-VBN -> fixed
-DT -> some
-VBD -> gasped
-JJ -> noisy
-NP -> DT NN NNS
-VB -> realize
-MD -> could
-JJ -> little
-VBD -> looked
-NN -> outta
-VP -> VBG PP PP , S
-NNS -> mountains
-IN -> around
-VP -> VBP
-ADVP -> JJ
-NN -> bit
-NP -> NNS
-VP -> VB NP
-NP -> NP , VP
-JJ -> many
-RB -> though
-VBD -> died
-JJ -> much
-NN -> luck
-NN -> tomorrow
-VP -> VB
-NN -> president
-DT -> no
-ROOT -> NP
-S -> S , CC S .
-VP -> VBD NP VP
-PP -> TO NP
-NN -> sign
-PP -> ADVP IN NP
-RB -> hard
-NNS -> referees
-JJ -> full
-NN -> book
-ADJP -> RB
-RB -> up
-VP -> VBN PP
-VP -> VBD NP , S
-SBAR -> IN S
-VB -> turn
-RB -> upstairs
-VBN -> happened
-NNS -> ages
-PP -> IN ADJP
-IN -> in
-NN -> weapon
-VP -> VBD VP
-NN -> marcus
-PP -> IN S
-CD -> seven
-NP -> NP , PP
-JJ -> bloody
-VBD -> turned
-PRP -> them
-RB -> sometimes
-NN -> fur
-VP -> TO VP
-VBN -> painted
-VP -> VBD ADVP ADJP
-VB -> have
-NP -> NP , NP ,
-CC -> and
-S -> ADVP NP VP
-VBG -> playing
-NP -> CC NP CC NP
-PRP -> she
-IN -> underneath
-VBP -> whistle
-NP -> NN JJ
-VP -> VB VP
-NP -> NN NN NNS
-NN -> excitement
-PRT -> IN
-RB -> very
-RP -> on
-IN -> since
-VBD -> was
-NN -> staffroom
-PP -> IN NP
-RB -> particularly
-NN -> rabbit
-VP -> VBD NP X
-VB -> buck
-NP -> NP VP
-NP -> DT JJ NN NN
-NN -> place
-VBP -> lurch
-WHNP -> WP
-NP-TMP -> NNP
-IN -> at
-NP -> DT NN JJ NN
-JJR -> lower
-JJS -> most
-NN -> quaffle
-NN -> fan
-IN -> like
-VBD -> rose
-NP -> DT NNS
-ADVP -> RB
-VBG -> going
-VBD -> cleared
-WRB -> why
-NP -> NP : NP
-ROOT -> SBARQ
-NN -> slytherin
-VP -> VBN S SBAR
-VBG -> refereeing
-NNS -> movements
-NN -> lake
-NNS -> sheets
-NNS -> brooms
-VBN -> decided
-VBD -> happened
-S -> UCP
-NNS -> people
-JJR -> nicer
-VBN -> covered
-VP -> VBG ADVP
-PP -> IN PP
-VB -> take
-MD -> should
-NN -> chatter
-ADJP -> JJ PP
-PRP -> her
-PP -> TO S
-VBD -> skipped
-S -> PP NP VP .
-VBD -> fell
-PRP$ -> his
-SBARQ -> WHADVP SQ .
-PRT -> RP
-JJ -> fried
-IN -> up
-VBN -> done
-RB -> tightly
-VP -> VB ADVP PP
-NN -> smell
-NP -> NP , NP
-VP -> VBD PP
-IN -> after
-NN -> blast
-VBG -> flashing
-PRP -> they
-NP-TMP -> DT NN
-NP -> NP CC NP
-SBAR -> S
-NNS -> students
-VBD -> bit
-VP -> MD VP
-S -> ADVP NP VP .
-JJ -> free
-CC -> both
-VB -> ask
-NN -> training
-PP -> IN ADVP
-VBD -> heard
-PRP$ -> their
-NNS -> bandages
-JJ -> difficult
-NNS -> posts
-NP -> PRP$ NNS
-VP -> VBD ADVP
-VB -> fall
-JJ -> top
-PRP -> it
-VP -> VBG PRT
-NN -> potter
-NP -> PRP$ JJ NN
-RB -> then
-JJ -> enormous
-VBG -> trying
-VP -> VBG PP PP
-IN -> under
-VBD -> crossed
-NN -> morning
-VBD -> noticed
-VBG -> committing
-NN -> school
-VBG -> limping
-JJ -> good
-CC -> versus
-JJ -> first
-VBD -> dropped
-NNS -> nerves
-VP -> VBD ADVP VP
-JJ -> opposite
-JJ -> secret
-NP -> PRP
-VBG -> managing
-VBN -> left
-NP -> NP SBAR
-NN -> air
-VB -> clamber
-NN -> mind
-VBN -> dawned
-VBD -> knocked
-NP -> NP , NP .
-RB -> enough
-NP -> NP ADVP
-VP -> VBD NP PP
-VBG -> standing
-NP -> NN VBG
-VBG -> commentating
-NN -> room
-NN -> rush
-VP -> VBN S , PP
-VP -> VB PP
-VB -> move
-VBN -> become
-S -> PP , NP VP .
-NN -> terence
-RB -> later
-VBD -> told
-VBD -> decided
-VP -> VBN NP PP
-VP -> VBG PP , S
-NN -> braver
-IN -> beneath
-NN -> steel
-NN -> mountain
-IN -> during
-VBG -> breaking
-VP -> VBD S
-NNS -> boots
-IN -> through
-CD -> hundred
-JJ -> cold
-NNS -> players
-VBG -> jerking
-NN -> seamus
-NN -> throat
-NN -> house
-IN -> if
-NNS -> stands
-NN -> broom
-NN -> gryffindor
-VBD -> gave
-NN -> championship
-DT -> that
-RB -> well
-JJ -> sixth
-RB -> second
-IN -> that
-RB -> obviously
-NP -> NN NN
-IN -> because
-. -> ?
-ADVP -> NN IN
-NN -> yelp
-PRP -> you
-IN -> on
-NNS -> robes
-VBD -> circled
-WDT -> that
-ADVP -> RB JJR
-NP -> NP , SBAR
-ADJP -> JJ , JJ
-NNS -> rules
-VB -> filch
-VB -> quidditch
-: -> ;
-VP -> VBN NP SBAR
-VBD -> seized
-ADJP -> RB JJ
-NN -> madam
-JJ -> serious
-VP -> VBD NP PP S
-VP -> VBG PP , VP
-NN -> none
-VBD -> flashed
-NP -> NP ADJP
-VBN -> known
-RB -> so
-VP -> VBD NP ADVP PP
-ADVP -> NP RB
-NN -> row
-NN -> sight
-VP -> VBD NP-TMP
-S -> S VP .
-NN -> captain
-PRP -> he
-VBD -> entered
-NNS -> accidents
+ADJP -> JJ
+ADJP -> JJ COMMA JJ
 ADJP -> JJ CC JJ
+ADJP -> JJ JJR
+ADJP -> JJ PP
+ADJP -> JJ S
+ADJP -> RB
+ADJP -> RB JJ
+ADJP -> RB JJ CC JJ
+ADJP -> RB JJR
+ADVP -> ADVP PP
+ADVP -> DT RB CC RB
+ADVP -> IN CC IN
+ADVP -> IN NP PP
+ADVP -> IN PP
+ADVP -> JJ
+ADVP -> NN IN
+ADVP -> NP RB
+ADVP -> NP RBR
+ADVP -> RB
+ADVP -> RB JJ
+ADVP -> RB JJR
+ADVP -> RB PP
+ADVP -> RB RB
+CC -> 'and'
+CC -> 'both'
+CC -> 'but'
+CC -> 'versus'
+CD -> '1473'
+CD -> 'fifteen'
+CD -> 'five'
+CD -> 'hundred'
+CD -> 'one'
+CD -> 'seven'
+CD -> 'thirty'
+CD -> 'two'
+DT -> 'a'
+DT -> 'all'
+DT -> 'every'
+DT -> 'no'
+DT -> 'some'
+DT -> 'that'
+DT -> 'the'
+DT -> 'this'
+EX -> 'there'
+FRAG -> INTJ COMMA NP
+IN -> 'about'
+IN -> 'above'
+IN -> 'after'
+IN -> 'although'
+IN -> 'around'
+IN -> 'as'
+IN -> 'at'
+IN -> 'because'
+IN -> 'beneath'
+IN -> 'down'
+IN -> 'during'
+IN -> 'for'
+IN -> 'from'
+IN -> 'if'
+IN -> 'in'
+IN -> 'into'
+IN -> 'like'
+IN -> 'of'
+IN -> 'off'
+IN -> 'on'
+IN -> 'out'
+IN -> 'over'
+IN -> 'since'
+IN -> 'so'
+IN -> 'that'
+IN -> 'though'
+IN -> 'through'
+IN -> 'under'
+IN -> 'underneath'
+IN -> 'up'
+IN -> 'with'
+IN -> 'without'
+IN -> 'worth'
+INTJ -> RB
+JJ -> 'able'
+JJ -> 'afraid'
+JJ -> 'bloody'
+JJ -> 'bright'
+JJ -> 'cheerful'
+JJ -> 'cold'
+JJ -> 'common'
+JJ -> 'delicious'
+JJ -> 'different'
+JJ -> 'difficult'
+JJ -> 'enormous'
+JJ -> 'first'
+JJ -> 'foul'
+JJ -> 'free'
+JJ -> 'fried'
+JJ -> 'frightening'
+JJ -> 'full'
+JJ -> 'golden'
+JJ -> 'good'
+JJ -> 'gray'
+JJ -> 'great'
+JJ -> 'harry'
+JJ -> 'high'
+JJ -> 'impossible'
+JJ -> 'interesting'
+JJ -> 'large'
+JJ -> 'little'
+JJ -> 'long'
+JJ -> 'loud'
+JJ -> 'lucky'
+JJ -> 'mangled'
+JJ -> 'many'
+JJ -> 'much'
+JJ -> 'next'
+JJ -> 'noisy'
+JJ -> 'nonstop'
+JJ -> 'opposite'
+JJ -> 'restless'
+JJ -> 'second'
+JJ -> 'secret'
+JJ -> 'serious'
+JJ -> 'sixth'
+JJ -> 'snape'
+JJ -> 'sudden'
+JJ -> 'top'
+JJ -> 'tricky'
+JJ -> 'unseated'
+JJ -> 'violent'
+JJ -> 'warm'
+JJ -> 'whole'
+JJR -> 'higher'
+JJR -> 'longer'
+JJR -> 'lower'
+JJR -> 'nicer'
+JJS -> 'fastest'
+JJS -> 'most'
+JJS -> 'smallest'
+LS -> 'i'
+MD -> 'could'
+MD -> 'might'
+MD -> 'should'
+MD -> 'would'
+NN -> 'air'
+NN -> 'answer'
+NN -> 'anyone'
+NN -> 'banner'
+NN -> 'beaverskin'
+NN -> 'bit'
+NN -> 'blast'
+NN -> 'blood'
+NN -> 'book'
+NN -> 'braver'
+NN -> 'breath'
+NN -> 'broom'
+NN -> 'captain'
+NN -> 'championship'
+NN -> 'charm'
+NN -> 'chatter'
+NN -> 'confusion'
+NN -> 'corner'
+NN -> 'coulda'
+NN -> 'course'
+NN -> 'crowd'
+NN -> 'cup'
+NN -> 'dean'
+NN -> 'desert'
+NN -> 'evening'
+NN -> 'everyone'
+NN -> 'excitement'
+NN -> 'eye'
+NN -> 'fan'
+NN -> 'field'
+NN -> 'fire'
+NN -> 'flint'
+NN -> 'friend'
+NN -> 'frost'
+NN -> 'fur'
+NN -> 'game'
+NN -> 'goal'
+NN -> 'gold'
+NN -> 'ground'
+NN -> 'gryffindor'
+NN -> 'hagrid'
+NN -> 'hall'
+NN -> 'ham'
+NN -> 'hand'
+NN -> 'harry'
+NN -> 'heart'
+NN -> 'hermione'
+NN -> 'hooch'
+NN -> 'house'
+NN -> 'icy'
+NN -> 'job'
+NN -> 'lake'
+NN -> 'lee'
+NN -> 'lion'
+NN -> 'luck'
+NN -> 'madam'
+NN -> 'marcus'
+NN -> 'match'
+NN -> 'middle'
+NN -> 'mind'
+NN -> 'moleskin'
+NN -> 'morning'
+NN -> 'mountain'
+NN -> 'neville'
+NN -> 'none'
+NN -> 'nothing'
+NN -> 'outta'
+NN -> 'overcoat'
+NN -> 'paint'
+NN -> 'place'
+NN -> 'play'
+NN -> 'potter'
+NN -> 'president'
+NN -> 'quaffle'
+NN -> 'quidditch'
+NN -> 'rabbit'
+NN -> 'read'
+NN -> 'ron'
+NN -> 'room'
+NN -> 'row'
+NN -> 'rush'
+NN -> 'sahara'
+NN -> 'sausages'
+NN -> 'school'
+NN -> 'seamus'
+NN -> 'season'
+NN -> 'secret'
+NN -> 'seeker'
+NN -> 'shot'
+NN -> 'sight'
+NN -> 'sign'
+NN -> 'silence'
+NN -> 'silver'
+NN -> 'slytherin'
+NN -> 'smell'
+NN -> 'snape'
+NN -> 'snitch'
+NN -> 'split'
+NN -> 'staffroom'
+NN -> 'steel'
+NN -> 'streak'
+NN -> 'surprise'
+NN -> 'swishing'
+NN -> 'terence'
+NN -> 'throat'
+NN -> 'tomorrow'
+NN -> 'training'
+NN -> 'troll'
+NN -> 'truth'
+NN -> 'try'
+NN -> 'upstairs'
+NN -> 'way'
+NN -> 'weapon'
+NN -> 'weather'
+NN -> 'west'
+NN -> 'window'
+NN -> 'wood'
+NN -> 'world'
+NN -> 'yard'
+NN -> 'year'
+NN -> 'yelp'
+NNP -> 'november'
+NNP -> 'saturday'
+NNS -> 'accidents'
+NNS -> 'ages'
+NNS -> 'backs'
+NNS -> 'bandages'
+NNS -> 'binoculars'
+NNS -> 'boots'
+NNS -> 'brooms'
+NNS -> 'broomsticks'
+NNS -> 'colors'
+NNS -> 'eyes'
+NNS -> 'gloves'
+NNS -> 'hands'
+NNS -> 'higgs'
+NNS -> 'knees'
+NNS -> 'legs'
+NNS -> 'months'
+NNS -> 'mountains'
+NNS -> 'movements'
+NNS -> 'nerves'
+NNS -> 'people'
+NNS -> 'players'
+NNS -> 'points'
+NNS -> 'posts'
+NNS -> 'referees'
+NNS -> 'riders'
+NNS -> 'robes'
+NNS -> 'rules'
+NNS -> 'scabbers'
+NNS -> 'seats'
+NNS -> 'seconds'
+NNS -> 'seekers'
+NNS -> 'sheets'
+NNS -> 'stands'
+NNS -> 'students'
+NNS -> 'teams'
+NNS -> 'thousands'
+NNS -> 'times'
+NNS -> 'ways'
+NNS -> 'weeks'
+NNS -> 'windows'
+NP -> CC NP CC NP
+NP -> CD
+NP -> CD NNS
+NP -> DT
+NP -> DT ADJP
+NP -> DT ADJP NN
+NP -> DT CD NNS
+NP -> DT JJ JJ NN
+NP -> DT JJ NN
+NP -> DT JJ NN NN
+NP -> DT NN
+NP -> DT NN JJ NN
+NP -> DT NN NN
+NP -> DT NN NN NN
+NP -> DT NN NNS
+NP -> DT NNS
+NP -> DT VBG NN
+NP -> EX
+NP -> JJ
+NP -> JJ NN
+NP -> JJ NN NNS
+NP -> JJ NN NP
+NP -> JJ NNS
+NP -> JJR
+NP -> NN
+NP -> NN COMMA NN COMMA CC NN
+NP -> NN PUNT
+NP -> NN CC NN
+NP -> NN JJ
+NP -> NN NN
+NP -> NN NN NN NNS
+NP -> NN NN NNS
+NP -> NN VBG
+NP -> NNP
+NP -> NNS
+NP -> NP COMMA NP
+NP -> NP COMMA NP COMMA
+NP -> NP COMMA NP COMMA CC NP
+NP -> NP COMMA NP PUNT
+NP -> NP COMMA PP
+NP -> NP COMMA SBAR
+NP -> NP COMMA SBAR COMMA
+NP -> NP COMMA VP
+NP -> NP DUBBELEPUNT NP
+NP -> NP ADJP
+NP -> NP ADVP
+NP -> NP CC NP
+NP -> NP NP
+NP -> NP PP
+NP -> NP PP PUNT
+NP -> NP SBAR
+NP -> NP VP
+NP -> PDT DT NN
+NP -> PRP
+NP -> PRPDOLLARTEKEN
+NP -> PRPDOLLARTEKEN JJ NN
+NP -> PRPDOLLARTEKEN NN
+NP -> PRPDOLLARTEKEN NNS
+NP -> RB CD NN
+NP -> RB CD NNS
+NP -> RB NN
+NP -> RB RB
+NP -> VBN NN
+NP-TMP -> DT JJ NN
+NP-TMP -> DT NN
+NP-TMP -> NNP
+PDT -> 'all'
+PP -> ADVP IN NP
+PP -> CC NP
+PP -> IN
+PP -> IN ADJP
+PP -> IN ADVP
+PP -> IN NP
+PP -> IN PP
+PP -> IN S
+PP -> IN SBAR
+PP -> TO NP
+PP -> TO S
+PRP -> 'he'
+PRP -> 'her'
+PRP -> 'him'
+PRP -> 'it'
+PRP -> 'she'
+PRP -> 'them'
+PRP -> 'they'
+PRP -> 'you'
+PRPDOLLARTEKEN -> 'her'
+PRPDOLLARTEKEN -> 'his'
+PRPDOLLARTEKEN -> 'their'
+PRT -> IN
+PRT -> RP
+RB -> 'again'
+RB -> 'almost'
+RB -> 'alone'
+RB -> 'also'
+RB -> 'angrily'
+RB -> 'away'
+RB -> 'back'
+RB -> 'downward'
+RB -> 'enough'
+RB -> 'forward'
+RB -> 'hard'
+RB -> 'hardly'
+RB -> 'inside'
+RB -> 'just'
+RB -> 'later'
+RB -> 'much'
+RB -> 'not'
+RB -> 'now'
+RB -> 'obviously'
+RB -> 'off'
+RB -> 'once'
+RB -> 'only'
+RB -> 'particularly'
+RB -> 'perhaps'
+RB -> 'rarely'
+RB -> 'really'
+RB -> 'second'
+RB -> 'slowly'
+RB -> 'so'
+RB -> 'sometimes'
+RB -> 'still'
+RB -> 'suddenly'
+RB -> 'then'
+RB -> 'though'
+RB -> 'tightly'
+RB -> 'together'
+RB -> 'too'
+RB -> 'up'
+RB -> 'upstairs'
+RB -> 'usually'
+RB -> 'very'
+RB -> 'well'
+RBR -> 'more'
+ROOT -> NP
+ROOT -> S
+ROOT -> SBARQ
+RP -> 'off'
+RP -> 'on'
+RP -> 'out'
+RP -> 'over'
+RP -> 'up'
+S -> COMMA PP COMMA NP VP
+S -> ADJP
+S -> ADVP COMMA NP VP PUNT
+S -> ADVP NP VP
+S -> ADVP NP VP PUNT
+S -> ADVP VP
+S -> CC PP COMMA NP VP PUNT
+S -> CC S VP PUNT
+S -> LS VP PUNT
+S -> NP ADVP VP
+S -> NP VP
+S -> NP VP PUNT
+S -> NP-TMP NP VP PUNT
+S -> PP COMMA NP VP PUNT
+S -> PP NP VP PUNT
+S -> S COMMA CC S PUNT
+S -> S COMMA FRAG PUNT
+S -> S COMMA NP VP PUNT
+S -> S VP PUNT
+S -> SBAR COMMA NP VP PUNT
+S -> UCP
+S -> VP
+SBAR -> IN IN S
+SBAR -> IN S
+SBAR -> RB S
+SBAR -> S
+SBAR -> WHADVP S
+SBAR -> WHNP S
+SBARQ -> WHADVP SQ PUNT
+SQ -> MD NP VP
+TO -> 'to'
+UCP -> NP CC S
+VB -> 'ask'
+VB -> 'be'
+VB -> 'buck'
+VB -> 'catch'
+VB -> 'clamber'
+VB -> 'decide'
+VB -> 'fall'
+VB -> 'filch'
+VB -> 'hang'
+VB -> 'happen'
+VB -> 'have'
+VB -> 'hold'
+VB -> 'know'
+VB -> 'move'
+VB -> 'quidditch'
+VB -> 'realize'
+VB -> 'roll'
+VB -> 'see'
+VB -> 'take'
+VB -> 'turn'
+VB -> 'vanish'
+VBD -> 'became'
+VBD -> 'bit'
+VBD -> 'circled'
+VBD -> 'cleared'
+VBD -> 'crossed'
+VBD -> 'decided'
+VBD -> 'did'
+VBD -> 'died'
+VBD -> 'dived'
+VBD -> 'dropped'
+VBD -> 'entered'
+VBD -> 'fell'
+VBD -> 'felt'
+VBD -> 'flashed'
+VBD -> 'gasped'
+VBD -> 'gave'
+VBD -> 'gripped'
+VBD -> 'gulped'
+VBD -> 'had'
+VBD -> 'happened'
+VBD -> 'heard'
+VBD -> 'joined'
+VBD -> 'knocked'
+VBD -> 'learned'
+VBD -> 'limped'
+VBD -> 'looked'
+VBD -> 'made'
+VBD -> 'noticed'
+VBD -> 'ordered'
+VBD -> 'rose'
+VBD -> 'said'
+VBD -> 'sat'
+VBD -> 'saw'
+VBD -> 'scored'
+VBD -> 'seemed'
+VBD -> 'seized'
+VBD -> 'showed'
+VBD -> 'skipped'
+VBD -> 'spoke'
+VBD -> 'sprinted'
+VBD -> 'stared'
+VBD -> 'stood'
+VBD -> 'thought'
+VBD -> 'told'
+VBD -> 'took'
+VBD -> 'turned'
+VBD -> 'wanted'
+VBD -> 'was'
+VBD -> 'went'
+VBD -> 'were'
+VBD -> 'won'
+VBG -> 'breaking'
+VBG -> 'carrying'
+VBG -> 'commentating'
+VBG -> 'committing'
+VBG -> 'dangling'
+VBG -> 'defrosting'
+VBG -> 'drawing'
+VBG -> 'flashing'
+VBG -> 'fluttering'
+VBG -> 'getting'
+VBG -> 'gliding'
+VBG -> 'going'
+VBG -> 'handing'
+VBG -> 'holding'
+VBG -> 'hoping'
+VBG -> 'jerking'
+VBG -> 'limping'
+VBG -> 'looking'
+VBG -> 'making'
+VBG -> 'managing'
+VBG -> 'muttering'
+VBG -> 'noticing'
+VBG -> 'playing'
+VBG -> 'refereeing'
+VBG -> 'speaking'
+VBG -> 'squinting'
+VBG -> 'standing'
+VBG -> 'staring'
+VBG -> 'trying'
+VBG -> 'twitching'
+VBG -> 'vibrating'
+VBG -> 'waiting'
+VBG -> 'zigzagging'
+VBN -> 'become'
+VBN -> 'been'
+VBN -> 'begun'
+VBN -> 'bundled'
+VBN -> 'chilled'
+VBN -> 'covered'
+VBN -> 'dawned'
+VBN -> 'decided'
+VBN -> 'disappeared'
+VBN -> 'done'
+VBN -> 'fixed'
+VBN -> 'happened'
+VBN -> 'hermione'
+VBN -> 'kept'
+VBN -> 'known'
+VBN -> 'left'
+VBN -> 'lent'
+VBN -> 'painted'
+VBN -> 'performed'
+VBN -> 'raised'
+VBN -> 'relaxed'
+VBN -> 'ruined'
+VBN -> 'saved'
+VBN -> 'seen'
+VBN -> 'started'
+VBP -> 'lurch'
+VBP -> 'whistle'
+VBZ -> 'nimbus'
+VP -> ADVP JJ
+VP -> ADVP VBD NP PP
+VP -> ADVP VBG NP
+VP -> ADVP VBG S
+VP -> MD VP
+VP -> TO VP
+VP -> VB
+VP -> VB ADJP
+VP -> VB ADVP
+VP -> VB ADVP PP
+VP -> VB NP
+VP -> VB NP PP
+VP -> VB NP PRT
+VP -> VB NP SBAR
+VP -> VB PP
+VP -> VB PRT
+VP -> VB S
+VP -> VB SBAR
+VP -> VB VP
+VP -> VBD
+VP -> VBD ADJP
+VP -> VBD ADJP PP
+VP -> VBD ADJP SBAR
+VP -> VBD ADVP
+VP -> VBD ADVP COMMA ADVP
+VP -> VBD ADVP ADJP
+VP -> VBD ADVP NP
+VP -> VBD ADVP PP
+VP -> VBD ADVP VP
+VP -> VBD NP
+VP -> VBD NP COMMA ADVP
+VP -> VBD NP COMMA S
+VP -> VBD NP ADVP
+VP -> VBD NP ADVP PP
+VP -> VBD NP PP
+VP -> VBD NP PP COMMA S
+VP -> VBD NP PP S
+VP -> VBD NP SBAR
+VP -> VBD NP VP
+VP -> VBD NP X
+VP -> VBD NP-TMP
+VP -> VBD PP
+VP -> VBD PP COMMA ADVP S
+VP -> VBD PRT
+VP -> VBD PRT COMMA ADVP COMMA PP
+VP -> VBD PRT S
+VP -> VBD RB ADVP VP
+VP -> VBD S
+VP -> VBD S NP-TMP
+VP -> VBD SBAR
+VP -> VBD VP
+VP -> VBD VP COMMA ADVP
+VP -> VBG
+VP -> VBG ADVP
+VP -> VBG ADVP PP
+VP -> VBG IN PP
+VP -> VBG NP
+VP -> VBG NP ADVP COMMA ADVP PP
+VP -> VBG NP PP
+VP -> VBG PP
+VP -> VBG PP COMMA S
+VP -> VBG PP COMMA VP
+VP -> VBG PP PP
+VP -> VBG PP PP COMMA S
+VP -> VBG PRT
+VP -> VBG PRT PP
+VP -> VBG S
+VP -> VBG SBAR
+VP -> VBN
+VP -> VBN ADJP PP
+VP -> VBN NP
+VP -> VBN NP PP
+VP -> VBN NP SBAR
+VP -> VBN PP
+VP -> VBN PP ADVP
+VP -> VBN PRT PP
+VP -> VBN S
+VP -> VBN S COMMA PP
+VP -> VBN S SBAR
+VP -> VBN SBAR
+VP -> VBP
+VP -> VBZ NP
+VP -> VP COMMA CC VP NP
+VP -> VP COMMA VP CC VP
+VP -> VP CC VP
+WDT -> 'that'
+WDT -> 'which'
+WHADVP -> WRB
+WHNP -> WDT
+WHNP -> WP
+WP -> 'what'
+WP -> 'who'
+WRB -> 'when'
+WRB -> 'why'
+X -> NN VBD IN EX VBD CD CD NNS IN VBG DT NN JJ CC IN DT IN PRP VBD VBN IN DT NN NN NN IN CD DUBBELEPUNT DT NNS VBD RB DT JJS CC JJS NNS COMMA CC IN JJS JJ NN NNS VBD TO VB TO PRP DUBBELEPUNT IN IN NNS RB VBD VBG NN COMMA NNS VBD VBN VBN TO VB CC VB RP NNS RB IN DT NN NN PUNT
+X -> NP
