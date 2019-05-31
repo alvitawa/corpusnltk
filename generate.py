@@ -1,3 +1,4 @@
+
 from random import choices
 
 def generate_phrase(grammar, prod = None):

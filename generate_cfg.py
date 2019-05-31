@@ -45,16 +45,28 @@ def rules(parsed):
 
 with open('corenlp.txt', 'r') as inpt, open('CFG_auto.txt', 'w') as out:
     file_text = inpt.read()
-    ruleset = set()
+    rulesdict = dict()
     for treestr in file_text.split('\n'):
         parsed = parse(treestr)
         new_rules = rules(parsed)
-        ruleset.update(new_rules)
-   
-    for rule in sorted(ruleset):
-        head = rule[0]
-        tail = rule[1].split(' ')
-        out.write(head + ' -> ' + ' '.join(tail) + '\n')
+        for new_rule in new_rules:
+            head = new_rule[0]
+            if head not in rulesdict:
+                rulesdict[head] = []
+            rulesdict[head].append(new_rule[1])
+
+    for head in sorted(rulesdict.keys()):
+        for tail in sorted(set(rulesdict[head])):
+            # print(head, tail)
+            p = rulesdict[head].count(tail) / len(rulesdict[head])
+            tail = tail.split(' ')
+            out.write(head + ' -> ' + ' '.join(tail) + ' [' + str(p) + ']\n')
+
+    # assert False
+    # for rule in sorted(ruleset):
+    #     head = rule[0]
+    #     tail = rule[1].split(' ')
+    #     out.write(head + ' -> ' + ' '.join(tail) + '\n')
 
     # out.write('\n'.join(ruleset))
 
