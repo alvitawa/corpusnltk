@@ -50,28 +50,10 @@ with open('corenlp.txt', 'r') as inpt, open('CFG_auto.txt', 'w') as out:
         parsed = parse(treestr)
         new_rules = rules(parsed)
         ruleset.update(new_rules)
-    
-    alphamap = dict()
+   
     for rule in sorted(ruleset):
         head = rule[0]
         tail = rule[1].split(' ')
-        # if rule[0].isalpha():
-        #     head = rule[0]
-        # elif rule[0] not in alphamap:
-        #     head = 'AUTO_' + str(len(alphamap))
-        #     alphamap[rule[0]] = head
-        # else:
-        #     head = alphamap[rule[0]]
-        
-        # tail = []
-        # for aft in rule[1].split(' '):
-        #     if aft.isalpha():
-        #         tail += [aft]
-        #     elif aft not in alphamap:
-        #         tail += ['AUTO_' + str(len(alphamap))]
-        #         alphamap[aft] = 'AUTO_' + str(len(alphamap))
-        #     else:
-        #         tail += alphamap[aft]
         out.write(head + ' -> ' + ' '.join(tail) + '\n')
 
     # out.write('\n'.join(ruleset))
